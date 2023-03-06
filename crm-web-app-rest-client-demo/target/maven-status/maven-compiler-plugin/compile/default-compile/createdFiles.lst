@@ -1,0 +1,7 @@
+com\myspring\springdemo\model\Customer.class
+com\myspring\springdemo\service\CustomerService.class
+com\myspring\springdemo\config\DemoAppConfig.class
+com\myspring\springdemo\controller\CustomerController.class
+com\myspring\springdemo\service\CustomerServiceRestClientImpl.class
+com\myspring\springdemo\config\MySpringMvcDispatcherServletInitializer.class
+com\myspring\springdemo\service\CustomerServiceRestClientImpl$1.class
